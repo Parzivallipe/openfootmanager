@@ -1,0 +1,5 @@
+{
+  "productName": "Openfoot Felipe",
+  "identifier": "com.felipesoares.openfoot",
+  "bundle": { "targets": ["nsis"] }
+}
